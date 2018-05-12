@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38171
     wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Jensen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36275#GradivaEin-pompejanisches-Phantasiest-ck
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-05-29'
 gutenberg_type: Text
