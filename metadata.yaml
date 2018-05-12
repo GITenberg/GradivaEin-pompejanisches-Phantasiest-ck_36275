@@ -1,0 +1,29 @@
+_repo: GradivaEin-pompejanisches-Phantasiest-ck_36275
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jensen, Wilhelm
+    birthdate: 1837
+    deathdate: 1911
+    gutenberg_agent_id: '38171'
+    url: http://www.gutenberg.org/2009/agents/38171
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Jensen
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36275'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pompeii (Extinct city) -- Fiction'
+- !lcsh 'Dreams -- Fiction'
+- !lcc 'PT'
+title: 'Gradiva: Ein pompejanisches Phantasiestück'
+url: http://www.gutenberg.org/ebooks/36275
